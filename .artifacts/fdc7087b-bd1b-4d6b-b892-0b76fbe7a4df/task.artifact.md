@@ -1,0 +1,6 @@
+- `[x]` Actualizar iconos de compartir y eliminar en `menu_selection.xml`
+- `[x]` Mover Ajustes al menú de desbordamiento (3 puntitos)
+- `[x]` Añadir botón de Información (Créditos) en navegación
+- `[x]` Implementar Toast de créditos "Desarrollado por @blackhatone"
+- `[x]` Actualizar textos en `strings.xml`
+- `[ ]` Verificar cambios y despliegue

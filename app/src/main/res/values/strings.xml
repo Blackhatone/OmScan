@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">OmScan</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="nav_header_title">OmScan</string>
+    <string name="nav_header_subtitle">Escaneo Inteligente</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Mis Documentos</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_info">Créditos</string>
+    <string name="developed_by">Desarrollado por @blackhatone</string>
+
+    <string name="fab_content_description">Empezar a escanear</string>
+    <string name="image_view_item_transform_content_description">Vista previa del documento</string>
+
+    <string name="title_settings">Configuración</string>
+    <string name="theme_selection">Seleccionar Tema</string>
+    <string name="theme_light">Modo Claro</string>
+    <string name="theme_dark">Modo Oscuro</string>
+    <string name="theme_system">Seguir Sistema</string>
+
+    <string name="title_scan_mode">Modo de Escaneo</string>
+    <string name="mode_document">Documento</string>
+    <string name="mode_id_card">Cédula / DNI</string>
+
+    <string name="dialog_name_title">Nombre del Documento</string>
+    <string name="dialog_name_hint">Escribe el nombre aquí...</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+
+    <string name="msg_generating_pdf">Generando PDF comprimido...</string>
+    <string name="msg_pdf_ready">PDF listo: %s</string>
+    <string name="msg_scan_front">Escanee el FRENTE de la cédula</string>
+    <string name="msg_scan_back">Escanee el DORSO de la cédula</string>
+
+    <string name="setting_pdf_quality">Calidad del PDF</string>
+    <string name="quality_low">Baja (Muy comprimido)</string>
+    <string name="quality_medium">Media</string>
+    <string name="quality_high">Alta (Mejor calidad)</string>
+</resources>
